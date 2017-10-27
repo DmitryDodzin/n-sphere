@@ -16,7 +16,6 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
-.coveralls.yml
 
 # nyc test coverage
 .nyc_output
@@ -58,6 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
-# Dist Folder for the library
-dist
-binary
+# UnCompiled Code from lib
+lib
+proto
+
+# package-lock
+package-lock.json
