@@ -36,7 +36,8 @@
     }
   ],
   "dependencies": {
-    "google-protobuf": "^3.4.0"
+    "google-protobuf": "^3.4.0",
+    "zmq": "^2.15.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
